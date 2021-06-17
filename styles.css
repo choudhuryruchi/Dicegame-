@@ -1,0 +1,39 @@
+/* . is use to access class and # to access id */
+.container{
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice{
+  text-align: center;
+  display: inline-block;
+}
+
+body{
+  background-color: #161616;
+}
+
+h1{
+  margin: 30px;
+  font-size: 6rem;
+  font-family: 'Berkshire Swash', cursive;
+  color: #D8B384;
+}
+
+p{
+  font-size: 2rem;
+font-family: 'Berkshire Swash', cursive;
+  color: #5E8B7E;
+}
+
+img{
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+}
